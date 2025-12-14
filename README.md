@@ -21,22 +21,12 @@ The model predicts one of the following classes for each window:
 - `Wedge`
 - `Pennant`
 
-Training is performed on manually annotated time intervals.  
-Inference and scanning can be applied to **previously unseen, unlabeled time series** to detect potential flag patterns.
-
-The entire pipeline (preprocessing → training → inference → scanning) is fully automated and containerized.
-
 ---
 
 ## Extra Credit Justification
 
-The project goes beyond the basic requirements by providing:
-
-- A **fully automated Docker-based pipeline**
-- Clear separation of preprocessing, training, inference, and scanning
-- Application of the trained model to **unseen time series** using a dedicated scanning script
-- Window-level predictions merged into interpretable time segments
-- Robust logging and error handling for heterogeneous real-world financial data
+Even though I used a relatively simple CNN architecture, I focused on building a robust and general data pipeline that incorporates all valid annotations from all contributors, not only my own.
+The model is not limited to single labeled CSV files, but can be applied to previously unseen, unlabeled time series through a fully automated preprocessing, inference, and scanning pipeline.
 
 ---
 
