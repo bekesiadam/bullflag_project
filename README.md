@@ -45,6 +45,16 @@ Each time series is converted into fixed-length sliding windows, transformed int
 
 ---
 
+### Model Architecture
+
+The model is a lightweight 1D Convolutional Neural Network (CNN) designed for time-series classification.
+It processes fixed-length sliding windows of OHLC-derived features using convolutional layers followed by
+fully connected layers. The architecture is intentionally simple to ensure fast training and stable
+performance on heterogeneous financial time series.
+
+
+---
+
 ## Extra Credit Justification
 Even though I used a relatively simple CNN architecture, I focused on building a robust and general data pipeline that incorporates **all valid annotations from all contributors**, not only my own.  
 
