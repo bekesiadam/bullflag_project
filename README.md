@@ -56,7 +56,7 @@ The model is not limited to single labeled CSV files, but can be applied to **pr
 
 This project is fully containerized using Docker and runs the complete pipeline:
 data preprocessing, training, evaluation, and inference.
-
+```markdown
 ### Build
 
 ```bash
