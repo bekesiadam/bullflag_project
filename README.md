@@ -24,9 +24,9 @@ The model predicts one of the following classes for each window:
 ---
 
 ## Extra Credit Justification
+Even though I used a relatively simple CNN architecture, I focused on building a robust and general data pipeline that incorporates **all valid annotations from all contributors**, not only my own.  
 
-Even though I used a relatively simple CNN architecture, I focused on building a robust and general data pipeline that incorporates all valid annotations from all contributors, not only my own.
-The model is not limited to single labeled CSV files, but can be applied to previously unseen, unlabeled time series through a fully automated preprocessing, inference, and scanning pipeline.
+The model is not limited to single labeled CSV files, but can be applied to **previously unseen, unlabeled time series** through a fully automated preprocessing, inference, and scanning pipeline.
 
 ---
 
