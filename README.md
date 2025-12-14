@@ -56,51 +56,10 @@ The model is not limited to single labeled CSV files, but can be applied to **pr
 
 This project is fully containerized using Docker and runs the complete pipeline:
 data preprocessing, training, evaluation, and inference.
-```markdown
+
 ### Build
+
+Build the Docker image from the root of the repository:
 
 ```bash
 docker build -t dl-project .
-
-### Run
-
-Mount your local data directory to `/app/data` and redirect logs for submission:
-
-
-docker run \
-  -v /absolute/path/to/your/local/data:/app/data \
-  dl-project > log/run.log 2>&1
-
-
----
-
-### File structure
-
-```text
-bullflag_project/
-│
-├── src/
-│   ├── data_preprocessing.py   # Loading, matching JSON–CSV, windowing, feature extraction
-│   ├── training.py             # CNN training loop and validation
-│   ├── evaluation.py           # Model evaluation and metrics
-│   ├── inference.py            # Window-level inference on unseen time series
-│   ├── scan_timeseries.py      # Full time-series scan and flag segment detection
-│   ├── models.py               # CNN model definition
-│   ├── config.py               # Hyperparameters, paths, class definitions
-│   └── utils.py                # Logging and helper utilities
-│
-├── log/
-│   └── run.log                 # Example log of a full pipeline execution
-│
-├── processed/
-│   ├── dataset.npz             # Preprocessed sliding-window dataset
-│   └── meta.json               # Metadata about processed CSV files
-│
-├── models/
-│   └── model.pt                # Trained CNN model
-│
-├── Dockerfile                  # Docker image definition
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation and instructions
-
-
