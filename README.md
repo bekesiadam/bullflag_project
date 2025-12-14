@@ -45,7 +45,10 @@ Label information is provided via JSON files exported from Label Studio, contain
 
 ### Preparation Process
 
-Data preparation is implemented in:
+Data preparation is implemented in `src/data_preprocessing.py`.  
+The script automatically scans all user folders, matches annotation JSON files with their corresponding CSV time series, and extracts labeled time intervals.  
+Each time series is converted into fixed-length sliding windows, transformed into numerical features (log-returns and OHLC deltas), and saved in a unified dataset format suitable for model training.
+
 
 
 ### File structure
