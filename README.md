@@ -70,4 +70,33 @@ docker run --rm \
   -v /absolute/path/to/your/local/data:/app/data \
   dl-project > log/run.log 2>&1
 ```
+### File structure
+## File Structure
+
+```text
+bullflag_project/
+├── src/
+│   ├── data_preprocessing.py   # Data loading, JSON–CSV matching, windowing, feature extraction
+│   ├── training.py             # CNN training loop and validation
+│   ├── evaluation.py           # Model evaluation and metrics
+│   ├── inference.py            # Window-level inference on unseen time series
+│   ├── scan_timeseries.py      # Full time-series scan and flag segment detection
+│   ├── models.py               # CNN (SmallCNN) model definition
+│   ├── config.py               # Hyperparameters, paths, class definitions
+│   └── utils.py                # Logging and helper utilities
+│
+├── log/
+│   └── run.log                 # Example log of a full pipeline execution
+│
+├── processed/
+│   ├── dataset.npz             # Preprocessed sliding-window dataset
+│   └── meta.json               # Metadata about processed CSV files
+│
+├── models/
+│   └── model.pt                # Trained CNN model
+│
+├── Dockerfile                  # Docker image definition
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation and instructions
+```
 
