@@ -52,6 +52,28 @@ The model is not limited to single labeled CSV files, but can be applied to **pr
 
 ---
 
+## Docker Instructions
+
+This project is fully containerized using Docker and runs the complete pipeline:
+data preprocessing, training, evaluation, and inference.
+
+### Build
+
+```bash
+docker build -t dl-project .
+
+### Run
+
+Mount your local data directory to `/app/data` and redirect logs for submission:
+
+```bash
+docker run \
+  -v /absolute/path/to/your/local/data:/app/data \
+  dl-project > log/run.log 2>&1
+
+
+---
+
 ### File structure
 
 ```text
