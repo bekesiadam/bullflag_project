@@ -66,6 +66,8 @@ docker build -t dl-project .
 ### Run (with log capture)
 
 ```bash
-docker run --rm dl-project > log/run.log 2>&1
+docker run --rm \
+  -v /absolute/path/to/your/local/data:/app/data \
+  dl-project > log/run.log 2>&1
 ```
 
