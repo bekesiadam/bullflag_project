@@ -63,3 +63,9 @@ Build the Docker image from the root of the repository:
 
 ```bash
 docker build -t dl-project .
+
+---
+
+Run
+
+Mount your local data directory to /app/data and redirect logs for submission:
