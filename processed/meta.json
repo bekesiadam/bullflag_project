@@ -1,0 +1,172 @@
+[
+  {
+    "csv": "/app/data/AS76HW/XAU_1h_data_limited.csv",
+    "n_windows": 7598,
+    "n_pos": 10
+  },
+  {
+    "csv": "/app/data/AS76HW/XAU_1m_data_limited.csv",
+    "n_windows": 62484,
+    "n_pos": 5932
+  },
+  {
+    "csv": "/app/data/AS76HW/XAU_5m_data_limited.csv",
+    "n_windows": 62484,
+    "n_pos": 521
+  },
+  {
+    "csv": "/app/data/AS76HW/XAU_15m_data_limited.csv",
+    "n_windows": 30029,
+    "n_pos": 326
+  },
+  {
+    "csv": "/app/data/AS76HW/XAU_30m_data_limited.csv",
+    "n_windows": 15119,
+    "n_pos": 449
+  },
+  {
+    "csv": "/app/data/AY1PC8/EURUSD_1H_005.csv",
+    "n_windows": 37,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/AY1PC8/EURUSD_1min_001.csv",
+    "n_windows": 3110,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/DO1H50/EURUSD_1hour_001.csv",
+    "n_windows": 301,
+    "n_pos": 21
+  },
+  {
+    "csv": "/app/data/DO1H50/EURUSD_1minute_001.csv",
+    "n_windows": 5112,
+    "n_pos": 68
+  },
+  {
+    "csv": "/app/data/DO1H50/EURUSD_1hour_001.csv",
+    "n_windows": 301,
+    "n_pos": 21
+  },
+  {
+    "csv": "/app/data/DO1H50/EURUSD_1minute_001.csv",
+    "n_windows": 5112,
+    "n_pos": 68
+  },
+  {
+    "csv": "/app/data/IJAKT3/EURUSD_1min_003.csv",
+    "n_windows": 2775,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/IJAKT3/EURUSD_1min_004.csv",
+    "n_windows": 2685,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/IJAKT3/EURUSD_1min_002.csv",
+    "n_windows": 2505,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/IJAKT3/EURUSD_1min_001.csv",
+    "n_windows": 2775,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/IJAKT3/EURUSD_1min_005.csv",
+    "n_windows": 2775,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/IV92EM/EURUSD_15min_001.csv",
+    "n_windows": 497,
+    "n_pos": 87
+  },
+  {
+    "csv": "/app/data/LMIRPG/EURUSD_5min_001.csv",
+    "n_windows": 32753,
+    "n_pos": 2044
+  },
+  {
+    "csv": "/app/data/LMIRPG/EURUSD_5min_002.csv",
+    "n_windows": 32752,
+    "n_pos": 769
+  },
+  {
+    "csv": "/app/data/Q5C0UO/EURUSD_30m_001.csv",
+    "n_windows": 48,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/Q5C0UO/EURUSD_15m_001.csv",
+    "n_windows": 111,
+    "n_pos": 2
+  },
+  {
+    "csv": "/app/data/Q5C0UO/EURUSD_5m_001.csv",
+    "n_windows": 362,
+    "n_pos": 6
+  },
+  {
+    "csv": "/app/data/Q5C0UO/EURUSD_1m_001.csv",
+    "n_windows": 1869,
+    "n_pos": 22
+  },
+  {
+    "csv": "/app/data/UZ2DPI/EURUSD_1H_001.csv",
+    "n_windows": 37,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/UZ2DPI/EURUSD_1min_001.csv",
+    "n_windows": 434,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/UZ2DPI/EURUSD_5min_001.csv",
+    "n_windows": 434,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/UZ2DPI/EURUSD_15min_001.csv",
+    "n_windows": 193,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/UZ2DPI/EURUSD_30min_001.csv",
+    "n_windows": 89,
+    "n_pos": 0
+  },
+  {
+    "csv": "/app/data/VWXUD6/XAUUSD_5m_001.csv",
+    "n_windows": 830,
+    "n_pos": 37
+  },
+  {
+    "csv": "/app/data/VWXUD6/XAUUSD_5m_002.csv",
+    "n_windows": 841,
+    "n_pos": 18
+  },
+  {
+    "csv": "/app/data/W241KQ/EURUSD_5min.csv",
+    "n_windows": 5724,
+    "n_pos": 523
+  },
+  {
+    "csv": "/app/data/W241KQ/EURUSD_15min.csv",
+    "n_windows": 8925,
+    "n_pos": 1624
+  },
+  {
+    "csv": "/app/data/W241KQ/XAUUSD_30min.csv",
+    "n_windows": 4299,
+    "n_pos": 184
+  },
+  {
+    "csv": "/app/data/YH6M5S/EURUSD_1H_001.csv",
+    "n_windows": 1881,
+    "n_pos": 92
+  }
+]

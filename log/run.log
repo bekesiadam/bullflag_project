@@ -1,0 +1,181 @@
+[2025-12-14 18:57:11,649] INFO - === Data preprocessing شروع ===
+[2025-12-14 18:57:11,649] INFO - DATA_ROOT=/app/data
+[2025-12-14 18:57:11,649] INFO - window=256, stride=16
+[2025-12-14 18:57:11,766] WARNING - [MISS] DMQSIV: 4e85a92d-XAU_30min_001_converted.csv
+[2025-12-14 18:57:11,772] WARNING - [MISS] DMQSIV: 7623a35c-EURUSD_15min_001_converted_fixed.csv
+[2025-12-14 18:57:11,781] WARNING - [MISS] DMQSIV: 4e85a92d-XAU_30min_001_converted.csv
+[2025-12-14 18:57:11,787] WARNING - [MISS] DMQSIV: 7623a35c-EURUSD_15min_001_converted_fixed.csv
+[2025-12-14 18:57:12,120] WARNING - [MISS] IV92EM: ace21a6f-EURUSD_1hour_001_utc.csv
+[2025-12-14 18:57:12,131] WARNING - [MISS] IV92EM: 113e3543-EURUSD_1hour_002_utc.csv
+[2025-12-14 18:57:12,141] WARNING - [MISS] IV92EM: 5026dc93-EURUSD_1hour_003_utc.csv
+[2025-12-14 18:57:12,154] WARNING - [MISS] JRG6JB: d992bfe2-aapl_5min.csv
+[2025-12-14 18:57:12,159] WARNING - [MISS] JRG6JB: e2bee328-aapl_15min.csv
+[2025-12-14 18:57:12,164] WARNING - [MISS] JRG6JB: 3f6bd4f4-spy_15min.csv
+[2025-12-14 18:57:12,170] WARNING - [MISS] JRG6JB: 400e7f75-spy_15min_2.csv
+[2025-12-14 18:57:12,275] WARNING - [MISS] TYEGJ8: 
+[2025-12-14 18:57:12,275] WARNING - [MISS] TYEGJ8: 
+[2025-12-14 18:57:12,275] WARNING - [MISS] TYEGJ8: 
+[2025-12-14 18:57:12,310] WARNING - [MISS] VWXUD6: 
+[2025-12-14 18:57:12,310] WARNING - [MISS] VWXUD6: 
+[2025-12-14 18:57:12,349] WARNING - [MISS] VWXUD6: 
+[2025-12-14 18:57:12,349] WARNING - [MISS] VWXUD6: 
+[2025-12-14 18:57:12,368] WARNING - [MISS] W0S0Z6: 939fe952-PROBAAAAA_fixed.csv
+[2025-12-14 18:57:12,460] WARNING - [MISS] XQAR2Z: 001c3405-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,468] WARNING - [MISS] XQAR2Z: fb68d99e-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,511] WARNING - [MISS] consensus: 51a59544-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,517] WARNING - [MISS] consensus: 54ab5f1c-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,529] WARNING - [MISS] consensus: 731dfff8-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,535] WARNING - [MISS] consensus: 1ca0d39b-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,543] WARNING - [MISS] consensus: caf1a43d-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,548] WARNING - [MISS] consensus: 94dfff63-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,551] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,558] WARNING - [MISS] consensus: f6d42447-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,564] WARNING - [MISS] consensus: 720aa0dc-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,572] WARNING - [MISS] consensus: 29336737-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,580] WARNING - [MISS] consensus: 8d6d1dc1-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,588] WARNING - [MISS] consensus: 13953bc5-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,595] WARNING - [MISS] consensus: 4faa6b8a-data_date_intervals.csv
+[2025-12-14 18:57:12,598] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,606] WARNING - [MISS] consensus: 55376c1a-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,614] WARNING - [MISS] consensus: c563be28-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,620] WARNING - [MISS] consensus: 3e897c25-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,622] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,622] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,622] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,622] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,622] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,624] WARNING - [EMPTY JSON] /app/data/consensus/u4duy6.json
+[2025-12-14 18:57:12,664] WARNING - [MISS] consensus: 3aa2cff9-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,668] WARNING - [MISS] consensus: 
+[2025-12-14 18:57:12,692] WARNING - [MISS] consensus: 3c52a983-AS76HW.json
+[2025-12-14 18:57:12,699] WARNING - [MISS] consensus: 3c52a983-AS76HW.json
+[2025-12-14 18:57:12,723] WARNING - [MISS] consensus: 53736059-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,730] WARNING - [MISS] consensus: 5682401f-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,754] WARNING - [MISS] consensus: 5812d802-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,760] WARNING - [MISS] consensus: 6c6ed49e-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,787] WARNING - [MISS] consensus: 001c3405-EURUSD_1minute_004.csv
+[2025-12-14 18:57:12,797] WARNING - [MISS] consensus: fb68d99e-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,839] WARNING - [MISS] consensus: 1030443b-XAU_30m_data_limited.csv
+[2025-12-14 18:57:12,866] INFO - === DATA COLLECTION STATS ===
+[2025-12-14 18:57:12,866] INFO - users: 23
+[2025-12-14 18:57:12,866] INFO - label_files: 44
+[2025-12-14 18:57:12,866] INFO - csv_found: 63
+[2025-12-14 18:57:12,866] INFO - csv_missing: 54
+[2025-12-14 18:57:12,866] INFO - intervals: 635
+[2025-12-14 18:57:12,866] INFO - Found 63 csv tasks
+[2025-12-14 18:57:13,204] INFO - OK XAU_1h_data_limited.csv: windows=7598 pos=10
+[2025-12-14 18:57:15,144] INFO - OK XAU_1m_data_limited.csv: windows=62484 pos=5932
+[2025-12-14 18:57:17,040] INFO - OK XAU_5m_data_limited.csv: windows=62484 pos=521
+[2025-12-14 18:57:17,943] INFO - OK XAU_15m_data_limited.csv: windows=30029 pos=326
+[2025-12-14 18:57:18,366] INFO - OK XAU_30m_data_limited.csv: windows=15119 pos=449
+[2025-12-14 18:57:18,401] INFO - OK EURUSD_1H_005.csv: windows=37 pos=0
+[2025-12-14 18:57:18,464] INFO - OK EURUSD_1min_001.csv: windows=3110 pos=0
+[2025-12-14 18:57:18,499] INFO - OK EURUSD_1hour_001.csv: windows=301 pos=21
+[2025-12-14 18:57:18,654] INFO - OK EURUSD_1minute_001.csv: windows=5112 pos=68
+[2025-12-14 18:57:18,669] INFO - OK EURUSD_1hour_001.csv: windows=301 pos=21
+[2025-12-14 18:57:18,799] INFO - OK EURUSD_1minute_001.csv: windows=5112 pos=68
+[2025-12-14 18:57:18,831] INFO - SKIP /app/data/GFTYRV/GSPC_2025-09-25_to_2025-09-29_5m.csv: Missing column open in /app/data/GFTYRV/GSPC_2025-09-25_to_2025-09-29_5m.csv
+[2025-12-14 18:57:18,846] INFO - SKIP /app/data/GFTYRV/GSPC_2025-09-30_to_2025-10-04_5m.csv: Missing column open in /app/data/GFTYRV/GSPC_2025-09-30_to_2025-10-04_5m.csv
+[2025-12-14 18:57:18,862] INFO - SKIP /app/data/GFTYRV/GSPC_2025-10-05_to_2025-10-09_5m.csv: Missing column open in /app/data/GFTYRV/GSPC_2025-10-05_to_2025-10-09_5m.csv
+[2025-12-14 18:57:18,878] INFO - SKIP /app/data/GFTYRV/GSPC_2025-10-10_to_2025-10-14_5m.csv: Missing column open in /app/data/GFTYRV/GSPC_2025-10-10_to_2025-10-14_5m.csv
+[2025-12-14 18:57:18,893] INFO - SKIP /app/data/GFTYRV/GSPC_2025-10-15_to_2025-10-19_5m.csv: Missing column open in /app/data/GFTYRV/GSPC_2025-10-15_to_2025-10-19_5m.csv
+[2025-12-14 18:57:18,909] INFO - SKIP /app/data/GFTYRV/GSPC_2025-10-20_to_2025-10-24_5m.csv: Missing column open in /app/data/GFTYRV/GSPC_2025-10-20_to_2025-10-24_5m.csv
+[2025-12-14 18:57:18,924] INFO - SKIP /app/data/GFTYRV/NDX_2025-09-05_to_2025-09-09_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-09-05_to_2025-09-09_5m.csv
+[2025-12-14 18:57:18,941] INFO - SKIP /app/data/GFTYRV/NDX_2025-09-10_to_2025-09-14_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-09-10_to_2025-09-14_5m.csv
+[2025-12-14 18:57:18,958] INFO - SKIP /app/data/GFTYRV/NDX_2025-09-15_to_2025-09-19_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-09-15_to_2025-09-19_5m.csv
+[2025-12-14 18:57:18,975] INFO - SKIP /app/data/GFTYRV/NDX_2025-09-20_to_2025-09-24_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-09-20_to_2025-09-24_5m.csv
+[2025-12-14 18:57:18,991] INFO - SKIP /app/data/GFTYRV/NDX_2025-09-25_to_2025-09-29_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-09-25_to_2025-09-29_5m.csv
+[2025-12-14 18:57:19,008] INFO - SKIP /app/data/GFTYRV/NDX_2025-09-30_to_2025-10-04_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-09-30_to_2025-10-04_5m.csv
+[2025-12-14 18:57:19,025] INFO - SKIP /app/data/GFTYRV/NDX_2025-10-05_to_2025-10-09_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-10-05_to_2025-10-09_5m.csv
+[2025-12-14 18:57:19,041] INFO - SKIP /app/data/GFTYRV/NDX_2025-10-20_to_2025-10-24_5m.csv: Missing column open in /app/data/GFTYRV/NDX_2025-10-20_to_2025-10-24_5m.csv
+[2025-12-14 18:57:19,058] INFO - SKIP /app/data/GFTYRV/GDAXI_2025-09-25_to_2025-09-29_5m.csv: Missing column open in /app/data/GFTYRV/GDAXI_2025-09-25_to_2025-09-29_5m.csv
+[2025-12-14 18:57:19,073] INFO - SKIP /app/data/GFTYRV/GSPC_2025-09-20_to_2025-09-24_5m.csv: Missing column open in /app/data/GFTYRV/GSPC_2025-09-20_to_2025-09-24_5m.csv
+[2025-12-14 18:57:19,089] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-09-05_to_2025-09-09_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-09-05_to_2025-09-09_5m.csv
+[2025-12-14 18:57:19,107] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-09-10_to_2025-09-14_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-09-10_to_2025-09-14_5m.csv
+[2025-12-14 18:57:19,126] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-09-15_to_2025-09-19_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-09-15_to_2025-09-19_5m.csv
+[2025-12-14 18:57:19,144] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-09-25_to_2025-09-29_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-09-25_to_2025-09-29_5m.csv
+[2025-12-14 18:57:19,162] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-09-30_to_2025-10-04_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-09-30_to_2025-10-04_5m.csv
+[2025-12-14 18:57:19,180] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-10-05_to_2025-10-09_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-10-05_to_2025-10-09_5m.csv
+[2025-12-14 18:57:19,201] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-10-10_to_2025-10-14_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-10-10_to_2025-10-14_5m.csv
+[2025-12-14 18:57:19,218] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-10-15_to_2025-10-19_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-10-15_to_2025-10-19_5m.csv
+[2025-12-14 18:57:19,237] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-10-20_to_2025-10-24_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-10-20_to_2025-10-24_5m.csv
+[2025-12-14 18:57:19,255] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-10-25_to_2025-10-29_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-10-25_to_2025-10-29_5m.csv
+[2025-12-14 18:57:19,271] INFO - SKIP /app/data/GFTYRV/EURUSDX_2025-10-30_to_2025-10-30_5m.csv: Missing column open in /app/data/GFTYRV/EURUSDX_2025-10-30_to_2025-10-30_5m.csv
+[2025-12-14 18:57:19,329] INFO - OK EURUSD_1min_003.csv: windows=2775 pos=0
+[2025-12-14 18:57:19,390] INFO - OK EURUSD_1min_004.csv: windows=2685 pos=0
+[2025-12-14 18:57:19,449] INFO - OK EURUSD_1min_002.csv: windows=2505 pos=0
+[2025-12-14 18:57:19,514] INFO - OK EURUSD_1min_001.csv: windows=2775 pos=0
+[2025-12-14 18:57:19,584] INFO - OK EURUSD_1min_005.csv: windows=2775 pos=0
+[2025-12-14 18:57:19,677] INFO - OK EURUSD_15min_001.csv: windows=497 pos=87
+[2025-12-14 18:57:20,857] INFO - OK EURUSD_5min_001.csv: windows=32753 pos=2044
+[2025-12-14 18:57:22,035] INFO - OK EURUSD_5min_002.csv: windows=32752 pos=769
+[2025-12-14 18:57:22,077] INFO - OK EURUSD_30m_001.csv: windows=48 pos=0
+[2025-12-14 18:57:22,102] INFO - OK EURUSD_15m_001.csv: windows=111 pos=2
+[2025-12-14 18:57:22,134] INFO - OK EURUSD_5m_001.csv: windows=362 pos=6
+[2025-12-14 18:57:22,185] INFO - OK EURUSD_1m_001.csv: windows=1869 pos=22
+[2025-12-14 18:57:22,208] INFO - OK EURUSD_1H_001.csv: windows=37 pos=0
+[2025-12-14 18:57:22,236] INFO - OK EURUSD_1min_001.csv: windows=434 pos=0
+[2025-12-14 18:57:22,266] INFO - OK EURUSD_5min_001.csv: windows=434 pos=0
+[2025-12-14 18:57:22,288] INFO - OK EURUSD_15min_001.csv: windows=193 pos=0
+[2025-12-14 18:57:22,307] INFO - OK EURUSD_30min_001.csv: windows=89 pos=0
+[2025-12-14 18:57:22,351] INFO - OK XAUUSD_5m_001.csv: windows=830 pos=37
+[2025-12-14 18:57:22,397] INFO - OK XAUUSD_5m_002.csv: windows=841 pos=18
+[2025-12-14 18:57:22,569] INFO - OK EURUSD_5min.csv: windows=5724 pos=523
+[2025-12-14 18:57:22,887] INFO - OK EURUSD_15min.csv: windows=8925 pos=1624
+[2025-12-14 18:57:23,049] INFO - OK XAUUSD_30min.csv: windows=4299 pos=184
+[2025-12-14 18:57:23,086] INFO - SKIP /app/data/XOBJYX/extras/XAUUSD_30min_001.csv: Missing column timestamp in /app/data/XOBJYX/extras/XAUUSD_30min_001.csv
+[2025-12-14 18:57:23,127] INFO - OK EURUSD_1H_001.csv: windows=1881 pos=92
+[2025-12-14 18:57:23,291] INFO - SKIP /app/data/sample/EURUSD_1min.csv: Missing column timestamp in /app/data/sample/EURUSD_1min.csv
+[2025-12-14 18:57:33,881] INFO - Dataset saved: X=(297281, 256, 4), y=(297281,)
+[2025-12-14 18:57:33,881] INFO - Class distribution: {'None': 284457, 'Normal': 7412, 'Wedge': 3346, 'Pennant': 2066}
+[2025-12-14 18:57:33,881] INFO - === Data preprocessing DONE ===
+[2025-12-14 18:57:36,892] INFO - === Training شروع ===
+[2025-12-14 18:57:36,892] INFO - epochs=5, batch=256, lr=0.001, window=256
+[2025-12-14 18:57:38,162] INFO - Loaded dataset: X=(297281, 256, 4), y=(297281,)
+[2025-12-14 18:57:39,552] INFO - Device: cpu
+[2025-12-14 18:57:39,562] INFO - Model: SmallCNN, total_params=52836, trainable_params=52836
+[2025-12-14 18:58:23,045] INFO - Epoch 1/5 | train_loss=0.2252 train_acc=0.9558 | val_loss=0.2124 val_acc=0.9569
+[2025-12-14 18:59:04,476] INFO - Epoch 2/5 | train_loss=0.2053 train_acc=0.9569 | val_loss=0.2013 val_acc=0.9569
+[2025-12-14 18:59:46,275] INFO - Epoch 3/5 | train_loss=0.2014 train_acc=0.9569 | val_loss=0.2019 val_acc=0.9569
+[2025-12-14 19:00:28,181] INFO - Epoch 4/5 | train_loss=0.1972 train_acc=0.9569 | val_loss=0.1959 val_acc=0.9569
+[2025-12-14 19:01:10,004] INFO - Epoch 5/5 | train_loss=0.1931 train_acc=0.9569 | val_loss=0.1938 val_acc=0.9569
+[2025-12-14 19:01:10,006] INFO - Saved model to /app/models/model.pt
+[2025-12-14 19:01:10,006] INFO - === Training DONE ===
+[2025-12-14 19:01:12,566] INFO - === Evaluation شروع ===
+[2025-12-14 19:01:23,017] INFO - Classification report:
+/usr/local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/usr/local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+/usr/local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1531: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+[2025-12-14 19:01:23,289] INFO - 
+              precision    recall  f1-score   support
+
+        None     0.9569    1.0000    0.9780     56892
+      Normal     0.0000    0.0000    0.0000      1483
+       Wedge     0.0000    0.0000    0.0000       669
+     Pennant     0.0000    0.0000    0.0000       413
+
+    accuracy                         0.9569     59457
+   macro avg     0.2392    0.2500    0.2445     59457
+weighted avg     0.9156    0.9569    0.9358     59457
+
+[2025-12-14 19:01:23,327] INFO - Confusion matrix:
+[[56892     0     0     0]
+ [ 1483     0     0     0]
+ [  669     0     0     0]
+ [  413     0     0     0]]
+[2025-12-14 19:01:23,327] INFO - === Evaluation DONE ===
+[2025-12-14 19:01:25,844] INFO - === Inference شروع ===
+[2025-12-14 19:01:27,232] INFO - sample=225174 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=74263 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=34723 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=192705 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=201133 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=149288 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=238371 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=58358 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=197363 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - sample=234439 true=None pred=None
+[2025-12-14 19:01:27,233] INFO - === Inference DONE ===
