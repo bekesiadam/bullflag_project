@@ -66,7 +66,7 @@ docker build -t dl-project .
 
 Mount your local data directory to `/app/data` and redirect logs for submission:
 
-```bash
+
 docker run \
   -v /absolute/path/to/your/local/data:/app/data \
   dl-project > log/run.log 2>&1
