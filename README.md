@@ -59,11 +59,13 @@ data preprocessing, training, evaluation, and inference.
 
 ### Build
 
-Build the Docker image from the root of the repository:
-
 ```bash
 docker build -t dl-project .
+```
 
-docker run \
-  -v /absolute/path/to/your/local/data:/app/data \
-  dl-project > log/run.log 2>&1
+### Run (with log capture)
+
+```bash
+docker run --rm dl-project > log/run.log 2>&1
+```
+
