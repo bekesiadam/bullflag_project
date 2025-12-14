@@ -7,7 +7,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY src /app/src
 
 # default pipeline
-CMD python /app/src/01-data-preprocessing.py && \
-    python /app/src/02-training.py && \
-    python /app/src/03-evaluation.py && \
-    python /app/src/04-inference.py
+CMD python /app/src/data_preprocessing.py && \
+    python /app/src/training.py && \
+    python /app/src/evaluation.py && \
+    python /app/src/inference.py
