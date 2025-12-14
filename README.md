@@ -63,7 +63,7 @@ data preprocessing, training, evaluation, and inference.
 docker build -t dl-project .
 ```
 
-### Run (with log capture)
+### Run
 
 ```bash
 docker run --rm \
