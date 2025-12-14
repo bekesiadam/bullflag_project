@@ -81,7 +81,7 @@ bullflag_project/
 │   ├── evaluation.py           # Model evaluation and metrics
 │   ├── inference.py            # Window-level inference on unseen time series
 │   ├── scan_timeseries.py      # Full time-series scan and flag segment detection
-│   ├── models.py               # CNN (SmallCNN) model definition
+│   ├── models.py               # CNN model definition
 │   ├── config.py               # Hyperparameters, paths, class definitions
 │   └── utils.py                # Logging and helper utilities
 │
