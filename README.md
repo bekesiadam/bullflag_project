@@ -24,8 +24,6 @@ The model predicts one of the following classes for each window:
 ---
 
 
----
-
 ## Data Preparation
 
 ### Raw Data
@@ -45,11 +43,14 @@ Data preparation is implemented in `src/data_preprocessing.py`.
 The script automatically scans all user folders, matches annotation JSON files with their corresponding CSV time series, and extracts labeled time intervals.  
 Each time series is converted into fixed-length sliding windows, transformed into numerical features (log-returns and OHLC deltas), and saved in a unified dataset format suitable for model training.
 
+---
+
 ## Extra Credit Justification
 Even though I used a relatively simple CNN architecture, I focused on building a robust and general data pipeline that incorporates **all valid annotations from all contributors**, not only my own.  
 
 The model is not limited to single labeled CSV files, but can be applied to **previously unseen, unlabeled time series** through a fully automated preprocessing, inference, and scanning pipeline.
 
+---
 
 ### File structure
 
