@@ -70,7 +70,7 @@ docker run --rm \
   -v /absolute/path/to/your/local/data:/app/data \
   dl-project > log/run.log 2>&1
 ```
-### File structure
+
 ## File Structure
 
 ```text
