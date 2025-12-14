@@ -60,6 +60,7 @@ Data preparation is implemented in:
 
 ### File structure
 
+```text
 bullflag_project/
 │
 ├── src/
@@ -70,7 +71,7 @@ bullflag_project/
 │   ├── scan_timeseries.py      # Full time-series scan and flag segment detection
 │   ├── models.py               # CNN (SmallCNN) model definition
 │   ├── config.py               # Hyperparameters, paths, class definitions
-│   ├── utils.py                # Logging and helper utilities
+│   └── utils.py                # Logging and helper utilities
 │
 ├── log/
 │   └── run.log                 # Example log of a full pipeline execution
@@ -84,5 +85,6 @@ bullflag_project/
 │
 ├── Dockerfile                  # Docker image definition
 ├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation and instructions
+└── README.md                   # Project documentation and instructions
+
 
