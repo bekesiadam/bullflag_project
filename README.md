@@ -26,7 +26,7 @@
 ## Project Information
 
 - **Selected Topic:** Bull-flag detector  
-- **Student Name:** Békési Ádám  
+- **Student Name:** Ádám Békési  
 - **Aiming for +1 Mark:** Yes  
 
 ---
